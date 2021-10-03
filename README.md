@@ -22,7 +22,7 @@ CodeBook.md describes about variables and other details.
 Structure of the project
 The root (or base or main directory) directory contains 4 files :
 
-README.md explains everything needed to use the project
-CodeBook.md explains the variables and datasets used in the project
-run_analysis.R is the main R script to excute to create the resulting datasets
-FinalData.txt is the final dataset created by the project
+README.md explains everything needed to use the project.</br>
+CodeBook.md explains the variables and datasets used in the project.</br>
+run_analysis.R is the main R script to excute to create the resulting datasets.</br>
+FinalData.txt is the final dataset created by the project.
